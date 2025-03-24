@@ -19,6 +19,8 @@ If you're removing CFW because:
 
 <u>**STOP!!!**</u> Uninstalling custom firmware is an unnecessary risk that will at best waste your time and at worst <u>**BRICK**</u> your console. A better idea would be to ask for help at [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp).
 
+[![distraction so that people don't look at the rest of the page](/images/distraction.gif)](installing-boot9strap-(mset9))
+
 :::
 
 ::: danger
